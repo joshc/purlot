@@ -1,2 +1,3 @@
 # purlot
-ALL jobs.
+Looking for a job for the first time in my life. This repository will be all the practice I have done in advance of interviews. Theoretically, I will try to implement all I have in C++, Java, and Python, and use Python as my interview language. If time prevents, I will just code up solutions to practice problems in Python. These solutions will be maximizing readability and speed (in terms of writing up the solution). I will also write down the questions that I seek to
+ask during the interview, as well as various anecdotes to the questions that they may ask. The goal at the end of this journey is to have a job.
